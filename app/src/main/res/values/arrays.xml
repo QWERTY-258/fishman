@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fish_array">
+        <item>Карп</item>
+        <item>Щука</item>
+        <item>Сом</item>
+        <item>Осетр</item>
+    </string-array>
+    <string-array name="na_array">
+        <item>Червяк</item>
+        <item>Кукуруза</item>
+        <item>Рис</item>
+        <item>Хлеб</item>
+    </string-array>
+    <string-array name="sna_array">
+        <item>Грузила</item>
+        <item>Крючки</item>
+        <item>Леска</item>
+        <item>Крюк</item>
+    </string-array>
+    <string-array name="pri_array">
+        <item>Батон</item>
+        <item>Кукуруза</item>
+        <item>Жуки</item>
+        <item>Червяки</item>
+    </string-array>
+    <string-array name="ri_array">
+        <item>История 1</item>
+        <item>История 2</item>
+        <item>История 3</item>
+        <item>История 4</item>
+    </string-array>
+    <string-array name="ps_array">
+        <item>Выбор места</item>
+        <item>Выбор наживки</item>
+        <item>Выбор снасти</item>
+        <item>Выбор прикормки</item>
+    </string-array>
+</resources>
